@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  8 19:00:44 2021
-
-@author: SUSHANT
-"""
-
 
 # Importing all he necessary modules
 from tkinter import *
